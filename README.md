@@ -9,3 +9,4 @@ for font - google font is used
 github hosting servce used
 ## How to access-
 you can acess by clicking on this link()
+<img width="1280" height="800" alt="Screenshot_20261110-122102" src="https://github.com/user-attachments/assets/7fed5a11-cf98-4741-8ce0-a45a19ed8658" />
